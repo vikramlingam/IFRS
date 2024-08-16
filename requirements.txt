@@ -1,0 +1,11 @@
+yfinance
+prophet
+streamlit
+pandas
+numpy
+matplotlib
+numpy<2.0
+plotly
+docx
+requests
+python-docx
