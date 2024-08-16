@@ -8,3 +8,5 @@ numpy<2.0
 plotly
 docx
 io
+requests
+python-docx
