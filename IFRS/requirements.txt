@@ -1,12 +1,3 @@
-yfinance
-prophet
 streamlit
-pandas
-numpy
-matplotlib
-numpy<2.0
-plotly
-docx
-io
 requests
 python-docx
