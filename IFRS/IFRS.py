@@ -66,7 +66,7 @@ if 'api_key' not in st.session_state:
     st.session_state.api_key = None
 
 if login_button:
-    if username_input == "Vikram_Lingam" and password_input == "Vikram123":
+    if username_input == "IFRSUser1" and password_input == "Password":
         st.session_state.logged_in = True
         st.session_state.api_key = api_key_input
         st.sidebar.success("Login successful!")
