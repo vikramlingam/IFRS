@@ -113,7 +113,7 @@ if st.session_state.logged_in:
                 headers = {
                     "accept": "application/json",
                     "content-type": "application/json",
-                    "Authorization": st.secrets["PERPLEXITY_API_KEY"]  # Fetching API key securely
+                    "Authorization": f"Bearer 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"
                 }
                 
                 response = requests.post(url, json=payload, headers=headers)
